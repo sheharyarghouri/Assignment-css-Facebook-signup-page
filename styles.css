@@ -1,0 +1,91 @@
+body {
+    background-color: rgb(238, 241, 246);
+    overflow: hidden;
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+}
+
+
+.header {
+    background-color: #3c599b;
+    display: flex;
+    justify-content: space-around;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: white;
+    margin-bottom: 0%;
+    margin-top: 2%;
+    margin-right: 0%;
+}
+
+label {
+    float: right;
+    display: flex;
+}
+
+span.email {
+    margin-top: 2%;
+}
+
+span.password {
+    margin-left: 3%;
+    margin-top: 2%;
+}
+
+button.btn-1 {
+    background-color: rgb(104, 131, 174);
+    height: 20px;
+    width: 79px;
+    margin-left: 3%;
+    margin-top: 6%;
+}
+
+div.content {
+    justify-content: space-around;
+    display: flex;
+}
+
+span.content {
+    margin-top: 2%;
+}
+
+.form {
+    margin-left: -25%;
+}
+
+.sign-up {
+    margin-top: 5%;
+    color: black;
+}
+
+p.free {
+    margin-top: 0%;
+}
+
+.number1 {
+    margin-top: 2%;
+}
+
+.number2 {
+    margin-top: 2%;
+}
+
+.password-2 {
+    margin-top: 2%;
+}
+
+span.gender {
+    display: inline;
+}
+
+button.btn-2 {
+    background-color: rgb(100, 160, 84);
+    border-radius: 10%;
+    width: 50%;
+    height: 100%;
+    font-family: serif;
+    font-size: 150%;
+}
